@@ -35,3 +35,5 @@
 | | 2019 | [Negative Momentum for Improved Game Dynamics](http://proceedings.mlr.press/v89/gidel19a.html) | 미정 | | |
 | | 2018 | [The Mechanics of n-Player Differentiable Games](https://arxiv.org/abs/1802.05642) | 미정 | | |
 | | 2020 | [AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs](https://despoisj.github.io/AgingMapGAN/) | 미정 | | |
+
+|<img width=200/> | | | | | | |
