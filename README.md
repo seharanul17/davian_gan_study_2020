@@ -17,7 +17,7 @@
 | | 2017 | [Image-to-Image Translation with Conditional Adversarial Nets (Pix2Pix)](https://arxiv.org/abs/1611.07004) | 이현지 | | |
 | | 2017 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(Cycle-GAN)](https://arxiv.org/pdf/1703.10593.pdf) | 허경훈 | | |
 | | 2017 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) | 김태우 | | |
-| | 2018, 2018 | [Multimodal Unsupervised Image-to-Image Translation (MUNIT)](https://arxiv.org/abs/1804.04732) [Diverse Image-to-Image Translation via Disentangled Representations (DRIT)](https://arxiv.org/pdf/1808.00948.pdf)| 윤주열 | | |
+| | 2018, 2018 | [Multimodal Unsupervised Image-to-Image Translation (MUNIT)](https://arxiv.org/abs/1804.04732) <br> [Diverse Image-to-Image Translation via Disentangled Representations (DRIT)](https://arxiv.org/pdf/1808.00948.pdf)| 윤주열 | | |
 | | 2019 | [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) | 형준하 | | |
 | | 2016 | [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) | 미정 | | |
 | | 2018 | [Implicit Maximum Likelihood Estimation](https://arxiv.org/pdf/1809.09087.pdf) | 미정 | | |
