@@ -7,12 +7,12 @@
 
 | Date | Year of publication | Paper | Presenter | Question Link | Video Link |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2020-09-03 | | 향후 방향성 계획 |  |  |  |
-| 2020-09-10 | 2014 | [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) | 김태성 |  [Link](https://app.sli.do/event/nzuldkvv/live/questions ) |   |
-| 2020-09-17 | 2016 | [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Net](https://arxiv.org/abs/1606.03657) | 김진희 | [Link](https://app.sli.do/event/jj6g1kxy) | [Link](https://drive.google.com/file/d/1-XTfhSOVQPcQYTUwr8VMKH7uQutvoIjJ/view?usp=sharing) |
-| 2020-09-24 | 2016 |[Least Squares Generative Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf) | 류승우 | [Github Issue](https://github.com/seharanul17/davian_gan_study_2020/issues) | |
-| 2020-10-01 | | 추석 연휴 | | | |
-| 2020-10-08 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
+| 20-09-03 | | 향후 방향성 계획 |  |  |  |
+| 20-09-10 | 2014 | [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661) | 김태성 |  [Link](https://app.sli.do/event/nzuldkvv/live/questions ) |   |
+| 20-09-17 | 2016 | [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Net](https://arxiv.org/abs/1606.03657) | 김진희 | [Link](https://app.sli.do/event/jj6g1kxy) | [Link](https://drive.google.com/file/d/1-XTfhSOVQPcQYTUwr8VMKH7uQutvoIjJ/view?usp=sharing) |
+| 20-09-24 | 2016 |[Least Squares Generative Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf) | 류승우 | [Github Issue](https://github.com/seharanul17/davian_gan_study_2020/issues) | |
+| 20-10-01 | | 추석 연휴 | | | |
+| 20-10-08 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
 | | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | 미정 | | |
 | | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | 미정 | | |
 | | 2015 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) | 양소영 | | |
@@ -35,4 +35,3 @@
 | | 2019 | [Negative Momentum for Improved Game Dynamics](http://proceedings.mlr.press/v89/gidel19a.html) | 미정 | | |
 | | 2018 | [The Mechanics of n-Player Differentiable Games](https://arxiv.org/abs/1802.05642) | 미정 | | |
 | | 2020 | [AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs](https://despoisj.github.io/AgingMapGAN/) | 미정 | | |
-|<img width=150/> | | | | | |
