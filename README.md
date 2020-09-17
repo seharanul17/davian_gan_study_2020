@@ -1,5 +1,10 @@
 # davian_gan_study_2020
 2020 Davian GAN study 
+
+참고자료
+1. [GAN paper list repository](https://github.com/zhangqianhui/AdversarialNetsPapers)
+2. 
+
 | Date | Year of publication | Paper | Presenter | Question Link | Video Link |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2020-09-03 | | 향후 방향성 계획 |  |  |  |
