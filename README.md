@@ -8,7 +8,7 @@
 | 2020-09-24 | 2016 |[Least Squares Generative Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf) | 류승우 | [Link](https://app.sli.do/event/e2mhm1hj) |  |
 | 2020-10-01 | | 추석 연휴 | | | |
 | 2020-10-08 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
-| | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | 미정 | |
+| | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | 미정 | | |
 | | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | 미정 | | |
 | | 2015 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) | 양소영 | | |
 | | 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) | 미정 | | |
