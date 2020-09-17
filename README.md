@@ -4,6 +4,7 @@
 - [GAN paper list repository](https://github.com/zhangqianhui/AdversarialNetsPapers)
 - [Pytorch GAN implementation repository](https://github.com/eriklindernoren/PyTorch-GAN)
 
+일정
 | Date | Year of publication | Paper | Presenter | Question Link | Video Link |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2020/09/03 | | 향후 방향성 계획 |  |  |  |
