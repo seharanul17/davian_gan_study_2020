@@ -9,8 +9,8 @@
 | 2020-10-01 | | 추석 연휴 | | | |
 | 2020-10-08 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
 | | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | | |
-| | | | | | |
-| | | | | | |
+| | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | | | |
+| 2020-11-26 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | 최승환 | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
