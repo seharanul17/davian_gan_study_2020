@@ -21,7 +21,7 @@
 | | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | 미정 | | |
 | | 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) | 미정 | | |
 | | 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 정성윤 | | |
-| | 2020/11/26 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
+| 2020/11/26 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
 | | 2017 | [Image-to-Image Translation with Conditional Adversarial Nets (Pix2Pix)](https://arxiv.org/abs/1611.07004) | 이현지 | | |
 | | 2017 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(Cycle-GAN)](https://arxiv.org/pdf/1703.10593.pdf) | 허경훈 | | |
 | | 2017 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) | 김태우 | | |
