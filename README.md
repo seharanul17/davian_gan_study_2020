@@ -15,8 +15,7 @@
 | 2020/10/08 | 2015 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) | 윤주열 | | |
 | 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 1~2  | 허경훈 | | [Link](https://drive.google.com/file/d/146zMKICHrPu6p_l7OqMONBPgDxJruQ2R/view?usp=sharing) |
 | 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 3   | 양소영 | | |
-| 2020/10/29 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 4~6 | 미정 | | |
-| 2020/11/19 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 7~9 | 미정 | | |
+| 2020/11/19 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 4~9 | 김진희 | | |
 | 2020/11/26 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
 | 2020/11/26 | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | 미정 | | |
 | 2020/12/03 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
