@@ -13,7 +13,7 @@
 | 2020/09/24 | 2016 |[Least Squares Generative Adversarial Networks](https://arxiv.org/pdf/1611.04076.pdf) | 류승우 | [Link](https://github.com/seharanul17/davian_gan_study_2020/issues) | [Link](https://drive.google.com/file/d/1X1jEkj-kOgHWYXpRATTwN9wpC4OA3Scn/view?usp=sharing) |
 | 2020/10/01 | | 추석 연휴 | | | |
 | 2020/10/08 | 2015 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) | 윤주열 | | |
-| 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 1~2  | 허경훈 | | |
+| 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 1~2  | 허경훈 | | [Link](https://drive.google.com/file/d/146zMKICHrPu6p_l7OqMONBPgDxJruQ2R/view?usp=sharing) |
 | 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 3   | 양소영 | | |
 | 2020/10/29 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 4~6 | 미정 | | |
 | 2020/11/19 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 7~9 | 미정 | | |
