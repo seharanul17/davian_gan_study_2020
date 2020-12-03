@@ -18,9 +18,9 @@
 | 2020/10/22 | | 중간고사 및 CVPR | | | |
 | 2020/12/03 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 4~9 | 김진희 | | |
 | 2020/12/17 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
-| 2020/12/24 | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | 미정 | | |
+| 2020/12/24 | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | youngwoo cho | |
 | 2020/12/24 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
-| | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | 미정 | | |
+| | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | sanghyeon lee | | |
 | | 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) | 미정 | | |
 | | 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 정성윤 | | |
 | | 2017 | [Image-to-Image Translation with Conditional Adversarial Nets (Pix2Pix)](https://arxiv.org/abs/1611.07004) | 이현지 | | |
