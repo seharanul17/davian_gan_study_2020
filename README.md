@@ -17,17 +17,21 @@
 | 2020/10/15 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 3   | 양소영 | | |
 | 2020/10/22 | | 중간고사 및 CVPR | | | |
 | 2020/12/03 | 2016 | [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf): 4~9 | 김진희 | | |
+| 2020/12/10 | | 기말고사 | | | |
 | 2020/12/17 | 2017 | [Wasserstein GAN](https://arxiv.org/abs/1701.07875) | 김태우 |  | |
-| 2020/12/24 | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) | youngwoo cho | |
-| 2020/12/24 | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
+| 2020/12/24 | | 연휴 | | | |
+| 2021/01/14 | 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) | 양소영 | | |
+| 2021/01/21 |  |  |  | | |
+| 2021/01/28 | 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 정성윤 | | |
+| 2021/02/04 | 2017 | [Image-to-Image Translation with Conditional Adversarial Nets (Pix2Pix)](https://arxiv.org/abs/1611.07004) | 이현지 | | |
+| 2021/02/04 | 2017 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(Cycle-GAN)](https://arxiv.org/pdf/1703.10593.pdf) | 허경훈 | | |
+| 2020/02/11 | | 설날 | | | |
+| 2021/02/18 | 2017 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) | 김태우 | | |
+| 2021/02/25 | 2018, 2018 | [Multimodal Unsupervised Image-to-Image Translation (MUNIT)](https://arxiv.org/abs/1804.04732) <br> [Diverse Image-to-Image Translation via Disentangled Representations (DRIT)](https://arxiv.org/pdf/1808.00948.pdf)| 윤주열 | | |
+| 2021/02/25 | 2019 | [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) | 형준하 | | |
+| | 2017 | [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) |  | |
+| | 2017 | [ GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500) | **최승환** | | |
 | | 2018 | [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) | sanghyeon lee | | |
-| | 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) | 미정 | | |
-| | 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 정성윤 | | |
-| | 2017 | [Image-to-Image Translation with Conditional Adversarial Nets (Pix2Pix)](https://arxiv.org/abs/1611.07004) | 이현지 | | |
-| | 2017 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(Cycle-GAN)](https://arxiv.org/pdf/1703.10593.pdf) | 허경훈 | | |
-| | 2017 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020) | 김태우 | | |
-| | 2018, 2018 | [Multimodal Unsupervised Image-to-Image Translation (MUNIT)](https://arxiv.org/abs/1804.04732) <br> [Diverse Image-to-Image Translation via Disentangled Representations (DRIT)](https://arxiv.org/pdf/1808.00948.pdf)| 윤주열 | | |
-| | 2019 | [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) | 형준하 | | |
 | | 2016 | [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) | 미정 | | |
 | | 2018 | [Implicit Maximum Likelihood Estimation](https://arxiv.org/pdf/1809.09087.pdf) | 미정 | | |
 | | 2018 | [Mixed batches and symmetric discriminators for GAN training](https://arxiv.org/abs/1806.07185) | 미정 | | |
